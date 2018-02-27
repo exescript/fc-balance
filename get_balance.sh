@@ -93,6 +93,18 @@ function get_info_print
 	echo
 }
 
+let argc="$#"
+
+if [ $argc -ne "2" ];
+then
+	echo "Usage: $0 [card] [pass]"
+	echo
+	echo '<card> <pass>'
+	echo '<card> : 10 digitss'
+	echo '<pass> : 4 digits'
+	exit
+fi
+
 # -----------------------------
 login $1 $2
 
