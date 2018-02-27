@@ -1,0 +1,6 @@
+POST https://foodmobileapi.smartcard.ru/login HTTP/1.1
+Content-Length: 33
+Content-Type: application/x-www-form-urlencoded
+Host: foodmobileapi.smartcard.ru
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/UNAVAILABLE (java 1.4)

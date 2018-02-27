@@ -1,0 +1,7 @@
+GET https://foodmobileapi.smartcard.ru/v1/cards HTTP/1.1
+Cookie:
+Content-Type: application/x-www-form-urlencoded
+Host: foodmobileapi.smartcard.ru
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/UNAVAILABLE (java 1.4)
+
