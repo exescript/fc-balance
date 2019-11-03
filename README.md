@@ -1,1 +1,1 @@
-FC-Balance: get foodcard info by it's number and pass
+FoodCard info script: get foodcard's info by it's number and PIN code
